@@ -27,7 +27,7 @@
                         excited about the opportunity to apply my knowledge, gain hands-on experience, 
                         and grow as a software developer.
                     </p>
-                    <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
+                    <!-- <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
                         <button class="px-6 md:px-7 py-3 rounded-full relative group w-full sm:w-max flex justify-center">
                             <span class="absolute inset-0 rounded-3xl group-hover:scale-105 origin-center transition-all ease-in-out bg-primary
                             border-2 border-transparent"></span>
@@ -50,7 +50,7 @@
                             <a href="/DoanCongToan_CV_NET.pdf" download="DoanCongToan_CV_NET.pdf" class="pl-2 text-primary"> Download resume</a>
                             </div>
                         </button>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="lg:h-full md:flex">
                     <div class="flex w-full h-96 min-h-[24rem] lg:min-h-[none] lg:w-full lg:h-full items-center relative">

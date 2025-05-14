@@ -31,37 +31,49 @@ const services =ref([
         id:1,
         icon:'code.png',
         name:'Backend DEVELOPMENT',
-        description:'Building scalable applications with C#, ASP.NET Core, Web API, and Windows Form using object-oriented programming principles.'
+        description:'Building scalable RESTful APIs with C#, JAVA, Nodejs, Spring Boot, ASP.NET Core, Web API, and Windows Form using object-oriented programming principles.'
     },
     {
         id:2,
-        icon:'tech.png',
-        name:'Technical',
-        description:'C#, ASP.NET Core, ASP.NET API, Windows Form, and Razor Pages.'
+        icon:'code.png',
+        name:'Frontend DEVELOPMENT',
+        description:'Designing and developing responsive and user-friendly web applications with HTML, CSS, JavaScript, Vue.js, React.'
     },
     {
         id:3,
-        icon:'architecture1.png',
-        name:'Architecture',
-        description:'Designing and implementing Microservice architecture.'
+        icon:'tech.png',
+        name:'Technical',
+        description:'C#, JAVA, Nodejs, HTML, CSS, JavaScript'
     },
     {
         id:4,
-        icon:'database.png',
-        name:'Database',
-        description:'SQL Server, MySQL, PostgreSQL, and Redis for caching solutions.'
+        icon:'tech.png',
+        name:'Framework',
+        description:'Spring Boot, ASP.NET Core'
     },
     {
         id:5,
+        icon:'architecture1.png',
+        name:'Architecture',
+        description:'Microservice architecture, Clean Architecture, and Domain Driven Design.'
+    },
+    {
+        id:6,
+        icon:'database.png',
+        name:'Database',
+        description:'SQL Server, MySQL, PostgreSQL, MongoDB, and Redis for caching solutions.'
+    },
+    {
+        id:7,
         icon:'git.png',
         name:'distributed version control system',
         description:'Git and Gitlab'
     },
     {
-        id:6,
+        id:8,
         icon:'other.png',
         name:'Others',
-        description:'Grafana/Prometheus'
+        description:'Grafana/Prometheus, Docker'
     },
     ])
 </script>
